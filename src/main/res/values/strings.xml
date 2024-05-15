@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">musicapp1</string>
+    <string name="dcu_music_player">DCU Music Player</string>
+    <string name="todo">TODO</string>
+    <string name="music_icon_description" />
+</resources>
